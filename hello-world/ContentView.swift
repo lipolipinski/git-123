@@ -26,7 +26,7 @@ struct ContentView: View {
             Text(confirm)
             Spacer()
             Button(action: submit){
-                Text("Awesome Button")}
+                Text("Awesome Button 456")}
 //            allowsHitTesting(true)
             Spacer()
         }
